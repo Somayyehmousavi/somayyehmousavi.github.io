@@ -12,8 +12,8 @@ redirect_from:
 Education
 ======
 * Ph.D in 
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* M.S. in 
+* B.S. in 
 
 Work experience
 ======
