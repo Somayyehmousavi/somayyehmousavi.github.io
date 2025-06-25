@@ -3,7 +3,10 @@ permalink: /
 title: "Seyedeh Somayyeh Mousavi"
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+I am a Ph.D. candidate in Computer Science and Informatics at Emory University's School of Medicine, under the supervision of Dr. Reza Sameni. My research focuses on developing personalized artificial intelligence methods for healthcare applications, using longitudinal biosignal data and demographic features to improve the accuracy, fairness, and clinical utility of medical technologies.
+
+I hold two master's degrees: one in Computer Science and Informatics from Emory University, and another in Biomedical Engineering (Bioelectric) from the University of Zanjan. I also earned a bachelor's degree in Electrical Engineering. Before beginning my Ph.D. studies, I worked for over two years as a biomedical engineer in a hospital setting, where I gained valuable clinical experience that has deepened my understanding of the practical challenges involved in developing effective healthcare technologies
+
 
 A data-driven personal website
 ======
