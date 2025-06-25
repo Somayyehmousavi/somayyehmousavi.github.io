@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Seyedeh Somayyeh Mousavi": 
+title: "Seyedeh Somayyeh Mousavi"
   - /about/
   - /about.html
 ---
