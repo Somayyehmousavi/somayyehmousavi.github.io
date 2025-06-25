@@ -12,25 +12,25 @@ main:
     url: /educations/    
     
   - title: "Publications"
-    url: /publications/
+    url: /cv/
 
   - title: "Honors and Awards"
-    url: /honors_and_awards/
+    url: /cv/
 
   - title: "Research Experience"
     url: /research_experience/ 
 
   - title: "Professional Experience"
     url: /professional_experience/
-
-  # - title: "Teaching"
-  #  url: /teaching/    
         
   - title: "Teaching Experiences"
     url: /year-archive/
 
-  - title: "CV"
-    url: /cv/
+  # - title: "Teaching"
+  #  url: /teaching/    
+
+  # - title: "CV"
+  #  url: /cv/
     
   # - title: "CV"
   #   url: /cv-json/
