@@ -3,7 +3,7 @@ permalink: /
 title: "Seyedeh Somayyeh Mousavi"
 ---
 
-I am a Ph.D. candidate in Computer Science and Informatics at Emory University's School of Medicine, under the supervision of Dr. Reza Sameni. My research focuses on developing personalized artificial intelligence methods for healthcare applications, using longitudinal biosignal data and demographic features to improve the accuracy, fairness, and clinical utility of medical technologies.
+I am a Ph.D. candidate in Computer Science and Informatics at Emory University's School of Medicine, under the supervision of Dr. [Reza Sameni](https://sameni.info). My research focuses on developing personalized artificial intelligence methods for healthcare applications, using longitudinal biosignal data and demographic features to improve the accuracy, fairness, and clinical utility of medical technologies.
 
 I hold two master's degrees: one in Computer Science and Informatics from Emory University, and another in Biomedical Engineering (Bioelectric) from the University of Zanjan. I also earned a bachelor's degree in Electrical Engineering. Before beginning my Ph.D. studies, I worked for over two years as a biomedical engineer in a hospital setting, where I gained valuable clinical experience that has deepened my understanding of the practical challenges involved in developing effective healthcare technologies
 
