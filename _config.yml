@@ -37,9 +37,9 @@ author:
   googlescholar    : "https://scholar.google.com/citations?user=gk99WMsAAAAJ&hl=en"
   researchgate     : "https://www.researchgate.net/profile/Seyedeh-Somayyeh-Mousavi?ev=hdr_xprf"
   impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0002-6703-0226"
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   scopus           : # URL
 
   # Repositories and software development
@@ -51,7 +51,7 @@ author:
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : # "bsky.app" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
