@@ -2,6 +2,7 @@
 permalink: /
 title: "Seyedeh Somayyeh Mousavi"
 ---
+This is my pleasure that you are visiting my website.
 
 I am a Ph.D. candidate in the Computer Science and Informatics (CSI) program at Emory University, specializing in biomedical informatics under the supervision of Dr. [Reza Sameni](https://sameni.info).
 My research lies at the intersection of artificial intelligence, physiological signal analysis, and electronic health record data. I focus on learning from large-scale, longitudinal datasets to develop demography-aware AI and machine learning models that support more personalized and equitable healthcare solutions.
