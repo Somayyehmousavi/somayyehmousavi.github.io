@@ -9,6 +9,12 @@ My research lies at the intersection of artificial intelligence, physiological s
 
 I hold two master's degrees: one in Computer Science and Informatics from Emory University, and another in Biomedical Engineering (Bioelectric) from the University of Zanjan. I also earned a bachelor's degree in Electrical Engineering. Prior to starting my Ph.D., I worked for over two years as a biomedical engineer in a hospital setting, gaining hands-on clinical experience that has deepened my understanding of the practical challenges in healthcare technology development. I aim to make meaningful contributions to the fields of biomedical informatics and healthcare AI.
 
+Research Interset
+======
+- DFGDS
+- SDFSF
+- SDFS
+
 News
 ======
 
