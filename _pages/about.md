@@ -33,3 +33,37 @@ News
   Research paper presentation at *EMBC 2024*  
   *Orlando, FL, USA — July 2024*
 
+## 🗂 Awards Timeline
+
+**2025**
+- **SCCM Travel Award** — Datathon 2025 (Data Scientist)  
+- **IAAP Scholarship** — Academic & Community Service Excellence  
+
+**2024**
+- **SCCM Travel Award** — Datathon 2024 (Data Scientist)  
+- **IEEE EMBC NextGen Scholar Award** — EMBC 2024 Research Presentation
+
+## 🏅 Selected Awards
+
+### 🎯 SCCM Travel Award — 2025
+**Datathon 2025 | Data Scientist (Bioinformatics)**  
+📍 Chicago, IL, USA
+
+---
+
+### 🌍 IAAP Scholarship — 2025
+**Academic Achievement & Community Service**  
+📍 Vienna, VA, USA
+
+---
+
+### 🎯 SCCM Travel Award — 2024
+**Datathon 2024 | Data Scientist (Bioinformatics)**  
+📍 Chicago, IL, USA
+
+---
+
+### 📡 IEEE EMBC NextGen Scholar Award — 2024
+**EMBC 2024 | Research Paper Presentation**  
+📍 Orlando, FL, USA
+
