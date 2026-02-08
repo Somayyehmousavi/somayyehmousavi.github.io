@@ -11,16 +11,16 @@ main:
   - title: "Educations"
     url: /educations/  
 
-  - title: "Honors and Awards"
+  - title: "Awards"
     url: /educations/
 
-  - title: "Research Experience"
+  - title: "Research-Exp"
   #  url: /research_experience/ 
 
-  - title: "Professional Experience"
+  - title: "Professional-Exp"
   #  url: /professional_experience/
         
-  - title: "Teaching Experiences"
+  - title: "Teaching"
   #  url: /year-archive/
 
   - title: "Publications"
