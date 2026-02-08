@@ -9,13 +9,13 @@
 
 main:
   - title: "Educations"
-    url: /publications/  
-  
-  - title: "CV"
-    url: /files/paper1.pdf
+    url: /educations/  
     
   - title: "Publications"
     url: /publications/
+
+  - title: "CV"
+    url: /files/paper1.pdf
 
  # - title: "Honors and Awards"
  #   url: /cv/
