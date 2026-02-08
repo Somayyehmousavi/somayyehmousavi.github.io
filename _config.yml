@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Home-page"
+title                    : "Homepage"
 title_separator          : "-"
 name                     : # &name "Your Name"
 description              : # &description "personal description"
@@ -23,7 +23,7 @@ repository               : "Somayyehmousavi/somayyehmousavi.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "S. Somayyeh Mousavi"
+  # name             : "S. Somayyeh Mousavi"
   pronouns         : ""  
   bio              : # "Short biography for the left-hand sidebar"
   location         : "Atlanta, GA, USA"
