@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Education again"
+title: "Education"
 permalink: /educations/
 author_profile: true
 ---
