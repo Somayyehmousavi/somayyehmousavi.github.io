@@ -267,6 +267,15 @@ defaults:
       author_profile: true
       share: true
       comments: true
+  # _educations
+  - scope:
+      path: ""
+      type: educations
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true  
   # _portfolio
   - scope:
       path: ""
