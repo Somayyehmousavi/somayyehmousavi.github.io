@@ -17,8 +17,8 @@ main:
   - title: "CV"
     url: /files/paper1.pdf
 
- # - title: "Honors and Awards"
- #   url: /cv/
+  - title: "Honors and Awards"
+    url: /publications/
 
   #- title: "Research Experience"
   #  url: /research_experience/ 
