@@ -1,6 +1,7 @@
 ---
 title: "Arena-Bench: A Benchmarking Suite for Obstacle Avoidance Approaches in Highly Dynamic Environments"
 collection: publications  <-- THIS MUST BE 'publications', NOT 'Journal'
+category: manuscripts  <-- This tells the site to put it under "Journal Articles"
 permalink: /publication/2022-Arena-Bench
 date: 2022-10-01
 venue: 'Robotics and Automation Letters (RA-L)'
