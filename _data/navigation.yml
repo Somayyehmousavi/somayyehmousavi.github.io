@@ -10,33 +10,21 @@
 main:
   - title: "Educations"
     url: /educations/  
-    
-  - title: "Publications"
-    url: /publications/
 
   - title: "Honors and Awards"
     url: /educations/
-  
-  - title: "CV"
-    url: /files/S_Somayyeh_Mousavi_CV.pdf 
 
-  #- title: "Research Experience"
+  - title: "Research Experience"
   #  url: /research_experience/ 
 
- # - title: "Professional Experience"
- #  url: /professional_experience/
+  - title: "Professional Experience"
+  #  url: /professional_experience/
         
-  #- title: "Teaching Experiences"
+  - title: "Teaching Experiences"
   #  url: /year-archive/
 
-  # - title: "Teaching"
-  #  url: /teaching/    
+  - title: "Publications"
+    url: /publications/
 
-  # - title: "CV"
-  #  url: /cv/
-    
-  # - title: "CV"
-  #   url: /cv-json/
-    
-  # - title: "Guide"
-  #  url: /markdown/
+  - title: "CV"
+    url: /files/S_Somayyeh_Mousavi_CV.pdf 
