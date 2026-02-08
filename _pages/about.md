@@ -17,4 +17,19 @@ Research Interset
 
 News
 ======
+- **SCCM Travel Award** (June 2025)  
+  Participation in *Datathon 2025* as a Data Scientist  
+  *Chicago, IL, USA — July 2025*
+
+- **IAAP Scholarship** (June 2025)  
+  Academic excellence and service to Iranian American communities  
+  *Vienna, VA, USA*
+
+- **SCCM Travel Award** (May 2024)  
+  Participation in *Datathon 2024* as a Data Scientist  
+  *Chicago, IL, USA — July 2024*
+
+- **IEEE EMBC NextGen Scholar Award** (April 2024)  
+  Research paper presentation at *EMBC 2024*  
+  *Orlando, FL, USA — July 2024*
 
