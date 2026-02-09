@@ -20,5 +20,13 @@ News 📢
 - June 2025 | Pleased to receive the Iranian American Academics and Professionals (IAAP) Organization Scholarship, Vienna, VA, USA
 - June 2025 | Pleased to receive the SCCM Travel Award for participation in Datathon 2025 as a data scientist, Chicago, IL, USA
 
+<ul style="list-style-type: circle;">
+  <li style="color:#1f4ed8;">Dec 2025 | Successfully defended my PhD proposal at Emory University</li>
+  <li style="color:#0f766e;">July 2025 | Participated in Datathon 2025, Chicago, IL, USA</li>
+  <li style="color:#7c2d12;">June 2025 | Pleased to receive the IAAP Organization Scholarship, Vienna, VA, USA</li>
+  <li style="color:#6b21a8;">June 2025 | Pleased to receive the SCCM Travel Award for participation in Datathon 2025 as a data scientist, Chicago, IL, USA</li>
+</ul>
+
+
 
 
