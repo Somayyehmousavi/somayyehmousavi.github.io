@@ -12,15 +12,8 @@ I hold two master's degrees: one in Computer Science and Informatics from Emory 
 - SDFSF
 - SDFS
 
-News
+News 📢
 ======
-## 🏆 Honors & Awards
-
-| Year | Award | Organization | Location |
-|-----:|------|--------------|----------|
-| 2025 | Travel Award (Datathon) | SCCM | Chicago, IL, USA |
-| 2025 | Scholarship | IAAP | Vienna, VA, USA |
-| 2024 | Travel Award (Datathon) | SCCM | Chicago, IL, USA |
-| 2024 | NextGen Scholar Award | IEEE EMBS | Orlando, FL, USA |
+June 2025 | Pleased to receive the SCCM Travel Award for participation in Datathon 2025 | Chicago, IL, USA
 
 
