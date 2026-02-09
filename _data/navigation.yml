@@ -19,5 +19,8 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "CV"
-    url: /files/S_Somayyeh_Mousavi_CV.pdf 
+  - title: "Presentation"
+    url: /publications/
+
+ # - title: "CV"
+ #   url: /files/S_Somayyeh_Mousavi_CV.pdf 
