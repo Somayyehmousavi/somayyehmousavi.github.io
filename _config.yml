@@ -23,8 +23,7 @@ repository               : "Somayyehmousavi/somayyehmousavi.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  My CV            : "S_Somayyeh_Mousavi_CV.pdf" 
-  # name             : "S. Somayyeh Mousavi"
+  cv_link          : "S_Somayyeh_Mousavi_CV.pdf"
   pronouns         : ""  
   bio              : # "Short biography for the left-hand sidebar"
   location         : "Atlanta, GA, USA"
