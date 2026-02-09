@@ -14,6 +14,7 @@ I hold two master's degrees: one in Computer Science and Informatics from Emory 
 
 News 📢
 ======
-June 2025 | Pleased to receive the SCCM Travel Award for participation in Datathon 2025 | Chicago, IL, USA
+- Dec 2025 | Successfully defended my PhD proposal at Emory University
+- June 2025 | Pleased to receive the SCCM Travel Award for participation in Datathon 2025, Chicago, IL, USA
 
 
