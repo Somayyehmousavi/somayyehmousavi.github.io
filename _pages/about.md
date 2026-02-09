@@ -24,6 +24,7 @@ I hold two master's degrees: one in Computer Science and Informatics from Emory 
   <li>✓ <span style="color:#1f4ed8;">July 2025</span> | Participated in Datathon 2026, Chicago, IL, USA</li>
   <li>✓ <span style="color:#1f4ed8;">April 2024</span> | Honored to receive the SCCM Travel Award for participation in Datathon 2024 as a data scientist, Chicago, IL, USA</li>
   <li>✓ <span style="color:#1f4ed8;">April 2024</span> | Received the IEEE EMBC NextGen Scholar Award for participating in the EMBC 2024 conference and presenting my research paper, Orlando, FL, USA</li>
+  <li>✓ <span style="color:#1f4ed8;">March 2024</span> | Our paper, “A Survey on Blood Pressure Measurement Technologies: Addressing Potential Sources of Bias,” was accepted for publication in <i>Sensors Journal</i></li>
 </ul>
 
 
