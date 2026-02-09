@@ -13,14 +13,14 @@ I hold two master's degrees: one in Computer Science and Informatics from Emory 
 - SDFS
 
 <h2 style="color:#2563eb;">News 📢</h2>
-======
-<ul style="list-style-type: circle;">
-  <li style="color:#1f4ed8;">Dec 2025 | Successfully defended my PhD proposal at Emory University</li>
-  <li style="color:#0f766e;">OCT 2025 | Our paper, “Estimating Blood Pressure from the Electrocardiogram: Findings of a Large-Scale Negative Results Study,” has been accepted for publication in Physiological Measurement</li>
-  <li style="color:#0f766e;">July 2025 | Participated in Datathon 2025, Chicago, IL, USA</li>
-  <li style="color:#7c2d12;">June 2025 | Pleased to receive the IAAP Organization Scholarship, Vienna, VA, USA</li>
-  <li style="color:#6b21a8;">June 2025 | Pleased to receive the SCCM Travel Award for participation in Datathon 2025 as a data scientist, Chicago, IL, USA</li>
+<ul style="list-style-type: none; padding-left: 0;">
+  <li>✓ <span style="color:#1f4ed8;">Dec 2025</span> | Successfully defended my PhD proposal at Emory University</li>
+  <li>✓ <span style="color:#1f4ed8;">Oct 2025</span> | Our paper, “Estimating Blood Pressure from the Electrocardiogram: Findings of a Large-Scale Negative Results Study,” has been accepted for publication in <i>Physiological Measurement</i></li>
+  <li>✓ <span style="color:#1f4ed8;">July 2025</span> | Participated in Datathon 2025, Chicago, IL, USA</li>
+  <li>✓ <span style="color:#1f4ed8;">June 2025</span> | Pleased to receive the IAAP Organization Scholarship, Vienna, VA, USA</li>
+  <li>✓ <span style="color:#1f4ed8;">June 2025</span> | Pleased to receive the SCCM Travel Award for participation in Datathon 2025 as a data scientist, Chicago, IL, USA</li>
 </ul>
+
 
 
 
