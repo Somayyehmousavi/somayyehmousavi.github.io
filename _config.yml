@@ -23,6 +23,7 @@ repository               : "Somayyehmousavi/somayyehmousavi.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
+  My CV            : "S_Somayyeh_Mousavi_CV.pdf" 
   # name             : "S. Somayyeh Mousavi"
   pronouns         : ""  
   bio              : # "Short biography for the left-hand sidebar"
