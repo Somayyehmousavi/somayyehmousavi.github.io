@@ -12,7 +12,7 @@ I hold two master's degrees: one in Computer Science and Informatics from Emory 
 - SDFSF
 - SDFS
 
-News 📢
+<h2 style="color:#2563eb;">News 📢</h2>
 ======
 <ul style="list-style-type: circle;">
   <li style="color:#1f4ed8;">Dec 2025 | Successfully defended my PhD proposal at Emory University</li>
