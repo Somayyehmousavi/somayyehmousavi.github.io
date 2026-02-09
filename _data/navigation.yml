@@ -16,8 +16,8 @@ main:
   - title: "Teaching"
   #  url: /year-archive/
 
-  - title: "Publications"
-    url: /publications/
+- title: "Publications"
+    url: "https://scholar.google.com/citations?user=gk99WMsAAAAJ&hl=en"
 
   - title: "Presentation"
     url: /publications/
