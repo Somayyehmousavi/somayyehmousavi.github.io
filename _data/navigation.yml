@@ -17,10 +17,10 @@ main:
   #  url: /year-archive/
 
   - title: "Publications"
-    url: /publications/
+    url: https://scholar.google.com/citations?user=gk99WMsAAAAJ&hl=en
 
   - title: "Presentation"
     url: /publications/
 
- # - title: "CV"
- #   url: /files/S_Somayyeh_Mousavi_CV.pdf 
+  - title: "CV"
+   url: /files/S_Somayyeh_Mousavi_CV.pdf 
