@@ -23,12 +23,14 @@ repository               : "Somayyehmousavi/somayyehmousavi.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "S_Somayyeh_Mousavi_CV.pdf"
+  name             : "S_Somayyeh_Mousavi_CV"
+  url              : /files/S_Somayyeh_Mousavi_CV.pdf 
+  uri              : # URL
   pronouns         : ""  
   bio              : # "Short biography for the left-hand sidebar"
   location         : "Atlanta, GA, USA"
   employer         : "Emory University"
-  uri              : # URL
+ 
   email            : "seyedeh.somayyeh.mousavi@emory.edu" 
 
   # Academic websites
