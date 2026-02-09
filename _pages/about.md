@@ -14,12 +14,11 @@ I hold two master's degrees: one in Computer Science and Informatics from Emory 
 
 News 📢
 ======
-<ul style="list-style-type: circle;">
-  <li>Dec 2025 | Successfully defended my PhD proposal at Emory University</li>
-  <li>October 2025 | Our paper, “Estimating Blood Pressure from the Electrocardiogram: Findings of a Large-Scale Negative Results Study,” has been accepted for publication in <i>Physiological Measurement</i>.</li>
-  <li>July 2025 | Participated in Datathon 2025, Chicago, IL, USA</li>
-  <li>June 2025 | Pleased to receive the Iranian American Academics and Professionals (IAAP) Organization Scholarship, Vienna, VA, USA</li>
-  <li>June 2025 | Pleased to receive the SCCM Travel Award for participation in Datathon 2025 as a data scientist, Chicago, IL, USA</li>
-</ul>
+- Dec 2025 | Successfully defended my PhD proposal at Emory University
+- October 2025 | Our paper, “Estimating Blood Pressure from the Electrocardiogram: Findings of a Large-Scale Negative Results Study,” has been accepted for publication in <i>Physiological Measurement
+- July 2025 | Participated in Datathon 2025, Chicago, IL, USA
+- June 2025 | Pleased to receive the Iranian American Academics and Professionals (IAAP) Organization Scholarship, Vienna, VA, USA
+- June 2025 | Pleased to receive the SCCM Travel Award for participation in Datathon 2025 as a data scientist, Chicago, IL, USA
+
 
 
