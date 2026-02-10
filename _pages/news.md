@@ -5,7 +5,7 @@ permalink: /news/
 author_profile: true
 ---
 <ul style="list-style-type: none; padding-left: 0;">
-  <li>📢 <span style="color:#1f4ed8;">Dec 2025</span> | Successfully defended my PhD proposal</li>
+  <li>📣📣 <span style="color:#1f4ed8;">Dec 2025</span> | Successfully defended my PhD proposal</li>
   <div style="text-align: center;">
      <img src="/images/profile.png" width="400" height="400">
   </div>
