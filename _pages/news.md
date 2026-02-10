@@ -8,7 +8,7 @@ author_profile: true
 <ul style="list-style-type: none; padding-left: 0;">
   <li>
     <figure style="display: inline-block; margin: 0; vertical-align: middle;">
-      <img src="profile.png" alt="Checkmark" width="16" height="16">
+      <img src="images/profile.png" alt="Checkmark" width="16" height="16">
     </figure>
     <span style="color:#1f4ed8;">Dec 2025</span> | Successfully defended my PhD proposal
   </li>
