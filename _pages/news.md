@@ -6,8 +6,7 @@ author_profile: true
 ---
 <h2 style="color:#2563eb;">News 📢</h2>
 <ul style="list-style-type: none; padding-left: 0;">
-  <li>✓ <span style="color:#1f4ed8;">Nov 2025</span> |Successfully defended my PhD proposal</i></li>
-  ![My screenshot](./images/profile.png)
+  <li>✓ <span style="color:#1f4ed8;">Aug 2022</span> | Started my PhD journey at Emory University</li>
   <li>✓ <span style="color:#1f4ed8;">Nov 2025</span> |Our paper, “Leveraging Few-Shot Learning and Large Language Models for Analyzing Blood Pressure Variations Across Biological Sex from Scientific Literature,” was accepted for publication in <i>Computers in Biology and Medicine Journal</i></li>
   <li>✓ <span style="color:#1f4ed8;">Oct 2025</span> | Our paper, “Estimating Blood Pressure from the Electrocardiogram: Findings of a Large-Scale Negative Results Study,” was accepted for publication in <i>Physiological Measurement</i></li>
   <li>✓ <span style="color:#1f4ed8;">July 2025</span> | Participated in Datathon 2025, Chicago, IL, USA</li>
