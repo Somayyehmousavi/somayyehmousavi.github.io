@@ -13,14 +13,21 @@ author_profile: true
   </li>
   
   <li style="margin-bottom:12px;">
-    📢📢 <span style="color:#1f4ed8;">Nov 2025</span> |
+    📣📣 <span style="color:#1f4ed8;">Nov 2025</span> |
     Our paper, “Leveraging Few-Shot Learning and Large Language Models for Analyzing Blood Pressure Variations Across Biological Sex from Scientific Literature,”
     was accepted for publication in
     <i>Computers in Biology and Medicine</i>
     <a href="https://www.sciencedirect.com/science/article/abs/pii/S0010482525014817?via%3Dihub" target="_blank">[link]</a>
   </li>
+
+  <li style="margin-bottom:12px;">
+    📣📣 <span style="color:#1f4ed8;">Nov 2025</span> |
+    Our paper, “Estimating Blood Pressure from the Electrocardiogram: Findings of a Large-Scale Negative Results Study,”
+    was accepted for publication in
+    <i>Physiological Measurement</i>
+    <a href="https://iopscience.iop.org/article/10.1088/1361-6579/ae1926" target="_blank">[link]</a>
+  </li>
   
-  <li>✓ <span style="color:#1f4ed8;">Oct 2025</span> | Our paper, “Estimating Blood Pressure from the Electrocardiogram: Findings of a Large-Scale Negative Results Study,” was accepted for publication in <i>Physiological Measurement</i></li>
   <li>✓ <span style="color:#1f4ed8;">July 2025</span> | Participated in Datathon 2025, Chicago, IL, USA</li>
   <li>✓ <span style="color:#1f4ed8;">June 2025</span> | Honored to receive the IAAP Organization Scholarship, Vienna, VA, USA</li>
   <li>✓ <span style="color:#1f4ed8;">June 2025</span> | Honored to receive the SCCM Travel Award for participation in Datathon 2025 as a data scientist, Chicago, IL, USA</li>
