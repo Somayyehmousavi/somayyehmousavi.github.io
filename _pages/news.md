@@ -21,21 +21,50 @@ author_profile: true
   </li>
 
   <li style="margin-bottom:12px;">
-    📣📣 <span style="color:#1f4ed8;">Nov 2025</span> |
+    📣📣 <span style="color:#1f4ed8;">Oct 2025</span> |
     Our paper, “Estimating Blood Pressure from the Electrocardiogram: Findings of a Large-Scale Negative Results Study,”
     was accepted for publication in
     <i>Physiological Measurement</i>
     <a href="https://iopscience.iop.org/article/10.1088/1361-6579/ae1926" target="_blank">[link]</a>
   </li>
-  
-  <li>✓ <span style="color:#1f4ed8;">July 2025</span> | Participated in Datathon 2025, Chicago, IL, USA</li>
-  <li>✓ <span style="color:#1f4ed8;">June 2025</span> | Honored to receive the IAAP Organization Scholarship, Vienna, VA, USA</li>
-  <li>✓ <span style="color:#1f4ed8;">June 2025</span> | Honored to receive the SCCM Travel Award for participation in Datathon 2025 as a data scientist, Chicago, IL, USA</li>
-  <li>✓ <span style="color:#1f4ed8;">May 2025</span> | Successfully defended my qualifying exam at Emory University</li>
-  <li>✓ <span style="color:#1f4ed8;">July 2024</span> | Participated in the EMBC conference, presenting the paper “Learning from Two Decades of Blood Pressure Data: Demography-Specific Patterns Across 75 Million Patient Encounters,” Orlando, FL, USA</li>
+
+  <li style="margin-bottom:12px;">
+    📣📣 <span style="color:#1f4ed8;">July 2025</span> | Participated in Datathon 2025, Chicago, IL, USA
+    <div style="text-align: center; margin-top:12px; margin-bottom:12px;">
+      <img src="/images/SSM-proposal-defence.png" width="600" height="600">
+    </div>
+  </li>
+
+  <li style="margin-bottom:12px;">
+    📣📣 <span style="color:#1f4ed8;">June 2025</span> | Honored to receive the IAAP Organization Scholarship, Vienna, VA, USA
+    <div style="text-align: center; margin-top:12px; margin-bottom:12px;">
+      <img src="/images/SSM-proposal-defence.png" width="600" height="600">
+    </div>
+  </li>
+
+  <li style="margin-bottom:12px;">
+    📣📣 <span style="color:#1f4ed8;">June 2025</span> | 
+    Honored to receive the SCCM Travel Award for participation in Datathon 2025 as a data scientist, Chicago, IL, USA
+  </li>
+
+  <li style="margin-bottom:12px;">
+    📣📣 <span style="color:#1f4ed8;">May 2025</span> | 
+    Successfully defended my qualifying exam
+  </li> 
+
+  <li style="margin-bottom:12px;">
+    📣📣 <span style="color:#1f4ed8;">July 2024</span> | 
+    Participated in the EMBC conference, presenting the paper “Learning from Two Decades of Blood Pressure Data: Demography-Specific Patterns Across 75 Million Patient Encounters,” Orlando, FL, USA
+    <div style="text-align: center; margin-top:12px; margin-bottom:12px;">
+      <img src="/images/SSM-proposal-defence.png" width="600" height="600">
+    </div>
+  </li>
+
   <li>✓ <span style="color:#1f4ed8;">July 2024</span> | Participated in Datathon 2026, Chicago, IL, USA</li>
-  <li>✓ <span style="color:#1f4ed8;">April 2024</span> | Honored to receive the SCCM Travel Award for participation in Datathon 2024 as a data scientist, Chicago, IL, USA</li>
+
   <li>✓ <span style="color:#1f4ed8;">April 2024</span> | Received the IEEE EMBC NextGen Scholar Award for participating in the EMBC 2024 conference and presenting my research paper, Orlando, FL, USA</li>
+  <li>✓ <span style="color:#1f4ed8;">April 2024</span> | Honored to receive the SCCM Travel Award for participation in Datathon 2024 as a data scientist, Chicago, IL, USA</li>
+    
   <li>✓ <span style="color:#1f4ed8;">March 2024</span> | Our paper, “A Survey on Blood Pressure Measurement Technologies: Addressing Potential Sources of Bias,” was accepted for publication in <i>Sensors Journal</i></li>
   <li>✓ <span style="color:#1f4ed8;">Aug 2022</span> | Started my PhD journey at Emory University</li>
   <li>✓ <span style="color:#1f4ed8;">May 2022</span> | Finished my job at Zinjon Hospital as a biomedical engineer</li>
