@@ -6,9 +6,10 @@ author_profile: true
 ---
 <ul style="list-style-type: none; padding-left: 0;">
   <li>📣📣 <span style="color:#1f4ed8;">Dec 2025</span> | Successfully defended my PhD proposal</li>
-  <div style="text-align: center;">
-     <img src="/images/SSM-proposal-defence.png" width="400" height="400">
+  <div style="text-align: center; style="margin-top:12px; margin-bottom:12px;">
+     <img src="/images/SSM-proposal-defence.png" width="600" height="600">
   </div>
+  
   <li>📢 <span style="color:#1f4ed8;">Nov 2025</span> |Our paper, “Leveraging Few-Shot Learning and Large Language Models for Analyzing Blood Pressure Variations Across Biological Sex from Scientific Literature,” was accepted for publication in <i>Computers in Biology and Medicine Journal</i></li>
   <li>✓ <span style="color:#1f4ed8;">Oct 2025</span> | Our paper, “Estimating Blood Pressure from the Electrocardiogram: Findings of a Large-Scale Negative Results Study,” was accepted for publication in <i>Physiological Measurement</i></li>
   <li>✓ <span style="color:#1f4ed8;">July 2025</span> | Participated in Datathon 2025, Chicago, IL, USA</li>
