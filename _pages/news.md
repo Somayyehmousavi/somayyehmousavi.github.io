@@ -5,10 +5,12 @@ permalink: /news/
 author_profile: true
 ---
 <ul style="list-style-type: none; padding-left: 0;">
-  <li>📣📣 <span style="color:#1f4ed8;">Dec 2025</span> | Successfully defended my PhD proposal</li>
-  <div style="text-align: center; style="margin-top:12px; margin-bottom:12px;">
-     <img src="/images/SSM-proposal-defence.png" width="600" height="600">
-  </div>
+  <li style="margin-bottom:12px;">
+    📣📣 <span style="color:#1f4ed8;">Dec 2025</span> | Successfully defended my PhD proposal
+    <div style="text-align: center; margin-top:12px; margin-bottom:12px;">
+      <img src="/images/SSM-proposal-defence.png" width="600" height="600">
+    </div>
+  </li>
   
   <li style="margin-bottom:12px;">
     📢📢 <span style="color:#1f4ed8;">Nov 2025</span> |
@@ -17,7 +19,7 @@ author_profile: true
     <i>Computers in Biology and Medicine</i>
     <a href="https://www.sciencedirect.com/science/article/abs/pii/S0010482525014817?via%3Dihub" target="_blank">[link]</a>
   </li>
-
+  
   <li>✓ <span style="color:#1f4ed8;">Oct 2025</span> | Our paper, “Estimating Blood Pressure from the Electrocardiogram: Findings of a Large-Scale Negative Results Study,” was accepted for publication in <i>Physiological Measurement</i></li>
   <li>✓ <span style="color:#1f4ed8;">July 2025</span> | Participated in Datathon 2025, Chicago, IL, USA</li>
   <li>✓ <span style="color:#1f4ed8;">June 2025</span> | Honored to receive the IAAP Organization Scholarship, Vienna, VA, USA</li>
