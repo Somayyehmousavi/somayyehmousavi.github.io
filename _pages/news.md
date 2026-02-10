@@ -5,7 +5,7 @@ permalink: /news/
 author_profile: true
 ---
 <h2 style="color:#2563eb;">News 📢</h2>
-<img src="profile.png" width="400" height="400">
+<img src="./images/profile.png" width="400" height="400">
 <ul style="list-style-type: none; padding-left: 0;">
   <li>✓ <span style="color:#1f4ed8;">Dec 2025</span> | Successfully defended my PhD proposal</li>
   <li>✓ <span style="color:#1f4ed8;">Nov 2025</span> |Our paper, “Leveraging Few-Shot Learning and Large Language Models for Analyzing Blood Pressure Variations Across Biological Sex from Scientific Literature,” was accepted for publication in <i>Computers in Biology and Medicine Journal</i></li>
