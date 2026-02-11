@@ -5,7 +5,7 @@ permalink: /educations/
 author_profile: true
 ---
 
-### **Ph.D. in Computer Science and Bioinformatics**  
+### **Ph.D. in Computer Science and Bioinformatics**
 **Department of Biomedical Informatics, School of Medicine, Emory University**  
 Atlanta, Georgia, USA  
 *Aug 2022 – Present*  
