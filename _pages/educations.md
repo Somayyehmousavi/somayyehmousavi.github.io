@@ -5,13 +5,6 @@ permalink: /educations/
 author_profile: true
 ---
 
----
-layout: archive
-# title: "Education"
-permalink: /educations/
-author_profile: true
----
-
 ### **Ph.D. in Computer Science and Bioinformatics**  
 **Department of Biomedical Informatics, School of Medicine, Emory University**  
 Atlanta, Georgia, USA  
