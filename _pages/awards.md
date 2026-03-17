@@ -8,7 +8,7 @@ author_profile: true
   <li style="margin-bottom:12px;">
     📣📣 <span style="color:#1f4ed8;">Dec 2025</span> | Successfully defended my PhD proposal
     <div style="text-align: center; margin-top:12px; margin-bottom:12px;">
-      <img src="/images/SSM_proposal_defence_Dec_2025.png" width="600" height="600">
+      <img src="/images/SSM-proposal-defence-Dec-2025.png" width="600" height="600">
     </div>
   </li>
   
