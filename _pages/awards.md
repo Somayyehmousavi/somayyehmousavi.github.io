@@ -54,7 +54,7 @@ author_profile: true
     📣📣 <span style="color:#1f4ed8;">July 2024</span> | 
     Participated in the EMBC conference, presenting the paper “Learning from Two Decades of Blood Pressure Data: Demography-Specific Patterns Across 75 Million Patient Encounters,” Orlando, FL, USA
     <div style="text-align: center; margin-top:12px; margin-bottom:12px;">
-      <img src="/images/SSM-proposal-defence.png" width="600" height="600">
+      <img src="/images/SSM_EMBC_46_July_2024.png" width="600" height="600">
     </div>
   </li>
 
