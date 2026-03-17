@@ -30,9 +30,6 @@ author_profile: true
 
   <li style="margin-bottom:12px;">
     📣📣 <span style="color:#1f4ed8;">July 2025</span> | Participated in Datathon 2025, Chicago, IL, USA
-    <div style="text-align: center; margin-top:12px; margin-bottom:12px;">
-      <img src="/images/SSM_proposal-defence.png" width="600" height="600">
-    </div>
   </li>
 
   <li style="margin-bottom:12px;">
