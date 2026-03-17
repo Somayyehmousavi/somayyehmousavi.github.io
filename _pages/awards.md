@@ -35,7 +35,7 @@ author_profile: true
   <li style="margin-bottom:12px;">
     📣📣 <span style="color:#1f4ed8;">June 2025</span> | Honored to receive the IAAP Organization Scholarship, Vienna, VA, USA
     <div style="text-align: center; margin-top:12px; margin-bottom:12px;">
-      <img src="/images/SSM_IAAP_March_2026.png" width="600" height="600">
+      <img src="/images/SSM-IAAP-March-2026.png" width="600" height="600">
     </div>
   </li>
 
@@ -47,20 +47,20 @@ author_profile: true
   <li style="margin-bottom:12px;">
     📣📣 <span style="color:#1f4ed8;">May 2025</span> | 
     Successfully defended my qualifying exam
-    <img src="/images/SSM_Qualification_exam_May_2025.png" width="600" height="600">
+    <img src="/images/SSM-Qualification-exam-May-2025.png" width="600" height="600">
   </li> 
 
   <li style="margin-bottom:12px;">
     📣📣 <span style="color:#1f4ed8;">July 2024</span> | 
     Participated in the EMBC conference, presenting the paper “Learning from Two Decades of Blood Pressure Data: Demography-Specific Patterns Across 75 Million Patient Encounters,” Orlando, FL, USA
     <div style="text-align: center; margin-top:12px; margin-bottom:12px;">
-      <img src="/images/SSM_EMBC_46_July_2024.png" width="600" height="600">
+      <img src="/images/SSM-EMBC-46-July-2024.png" width="600" height="600">
     </div>
   </li>
 
   <li> 📣📣 <span style="color:#1f4ed8;">July 2024</span> | Participated in Datathon 2024, Chicago, IL, USA</li>
     <div style="text-align: center; margin-top:12px; margin-bottom:12px;">
-      <img src="/images/SSM_Dataton_SCCM_July_2024.png" width="600" height="600">
+      <img src="/images/SSM-Dataton-SCCM-July-2024.png" width="600" height="600">
     </div>
 
   <li> 📣📣 <span style="color:#1f4ed8;">April 2024</span> | Received the IEEE EMBC NextGen Scholar Award for participating in the EMBC 2024 conference and presenting my research paper, Orlando, FL, USA</li>
@@ -71,7 +71,7 @@ author_profile: true
   </li>
   <li> 📣📣 <span style="color:#1f4ed8;">Aug 2022</span> | Started my PhD journey at Emory University</li>
     <div style="text-align: center; margin-top:12px; margin-bottom:12px;">
-      <img src="/images/SSM_Emory_Aug_2022.jpg" width="600" height="600">
+      <img src="/images/SSM-Emory-Aug-2022.jpg" width="600" height="600">
     </div>
   
   <li> 📣📣 <span style="color:#1f4ed8;">May 2022</span> | Finished my job at Zinjon Hospital as a biomedical engineer</li>
