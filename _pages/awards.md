@@ -66,7 +66,9 @@ author_profile: true
   <li> 📣📣 <span style="color:#1f4ed8;">April 2024</span> | Received the IEEE EMBC NextGen Scholar Award for participating in the EMBC 2024 conference and presenting my research paper, Orlando, FL, USA</li>
   <li> 📣📣 <span style="color:#1f4ed8;">April 2024</span> | Honored to receive the SCCM Travel Award for participation in Datathon 2024 as a data scientist, Chicago, IL, USA</li>
     
-  <li> 📣📣 <span style="color:#1f4ed8;">March 2024</span> | Our paper, “A Survey on Blood Pressure Measurement Technologies: Addressing Potential Sources of Bias,” was accepted for publication in <i>Sensors Journal</i></li>
+  <li> 📣📣 <span style="color:#1f4ed8;">March 2024</span> | Our paper, “A Survey on Blood Pressure Measurement Technologies: Addressing Potential Sources of Bias,” was accepted for publication in <i>Sensors Journal</i>
+  <a href="https://www.mdpi.com/1424-8220/24/6/1730" target="_blank">[link]</a>
+  </li>
   <li> 📣📣 <span style="color:#1f4ed8;">Aug 2022</span> | Started my PhD journey at Emory University</li>
   <li> 📣📣 <span style="color:#1f4ed8;">May 2022</span> | Finished my job at Zinjon Hospital as a biomedical engineer</li>
   <li> 📣📣 <span style="color:#1f4ed8;">April 2021</span> | Our paper, “Introducing a New Feature Extraction Method for Non-Contact Blood Pressure Estimation Through iPPG Signals Extracted Using the G-R Method from Video Images of Different Facial Regions,” was accepted for presentation at the International Conference on Pattern Recognition and Image Analysis (IPRIA), Kashan, Iran</li>
