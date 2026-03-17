@@ -38,7 +38,7 @@ author_profile: true
   <li style="margin-bottom:12px;">
     📣📣 <span style="color:#1f4ed8;">June 2025</span> | Honored to receive the IAAP Organization Scholarship, Vienna, VA, USA
     <div style="text-align: center; margin-top:12px; margin-bottom:12px;">
-      <img src="/images/SSM-proposal-defence.png" width="600" height="600">
+      <img src="/images/SSM_IAAP_March_2026.png" width="600" height="600">
     </div>
   </li>
 
