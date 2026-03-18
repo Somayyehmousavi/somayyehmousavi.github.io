@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: ""
-permalink: /news/
+permalink: /awards/
 author_profile: true
 ---
 <ul style="list-style-type: none; padding-left: 0;">
